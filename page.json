@@ -1,27 +1,32 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://pbs.twimg.com/profile_images/1593630240961662979/hDHYl9MP_400x400.jpg",
+  "name": "Ali Yılmaz",
+  "description": "software engineer at facebook, london",
+  "image_url": "https://ibb.co/Sd4kT7z",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/in/fyvz",
+      "url": "https://linkedin.com/in/yilmazalimetu",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/fatih-yavuz",
+      "url": "https://github.com/aliyilmazz",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "https://twitter.com/fthdev",
+      "url": "https://twitter.com/yilmazaliyy",
       "icon": "twitter"
     },
     {
       "title": "Instagram",
-      "url": "https://instagram.com/pusuknane",
+      "url": "https://instagram.com/yilmazaliyy",
       "icon": "instagram"
-    }
+    },
+    {
+      "title": "Spotify",
+      "url": "https://open.spotify.com/user/11143786548?si=8551424d00aa4135",
+      "icon": "spotify"
+    },
   ]
 }
