@@ -27,6 +27,11 @@
       "title": "Spotify",
       "url": "https://open.spotify.com/user/11143786548?si=8551424d00aa4135",
       "icon": "spotify"
+    },
+    {
+      "title": "Stackoverflow",
+      "url": "https://stackoverflow.com/users/7757415/ali-y%c4%b1lmaz",
+      "icon": "stackoverflow"
     }
   ]
 }
