@@ -4,14 +4,9 @@
   "image_url": "https://i.ibb.co/nDX800N/IMG-1901.jpg",
   "links": [
     {
-      "title": "LinkedIn",
-      "url": "https://linkedin.com/in/yilmazalimetu",
-      "icon": "linkedin"
-    },
-    {
-      "title": "GitHub",
-      "url": "https://github.com/aliyilmazz",
-      "icon": "github"
+      "title": "Instagram",
+      "url": "https://instagram.com/yilmazaliyy",
+      "icon": "instagram"
     },
     {
       "title": "Twitter",
@@ -19,9 +14,14 @@
       "icon": "twitter"
     },
     {
-      "title": "Instagram",
-      "url": "https://instagram.com/yilmazaliyy",
-      "icon": "instagram"
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/yilmazalimetu",
+      "icon": "linkedin"
+    },
+    {
+      "title": "Eksisozluk",
+      "url": "https://eksisozluk.com/biri/efialtis",
+      "icon": "eksisozluk"
     },
     {
       "title": "Spotify",
@@ -32,6 +32,11 @@
       "title": "Stackoverflow",
       "url": "https://stackoverflow.com/users/7757415/ali-y%c4%b1lmaz",
       "icon": "stackoverflow"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/aliyilmazz",
+      "icon": "github"
     }
   ]
 }
